@@ -21,3 +21,4 @@ class Car(val name:String,val type:String,var kmRun:Int)
         println("$name Car is applying breaks")
     }
 }
+
