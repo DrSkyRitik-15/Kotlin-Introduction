@@ -15,7 +15,7 @@ This repository contains my practice and learning projects while exploring Kotli
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/DrSkyRitik-15/Kotlin-Introductions>
    ```
 2. Open the project in IntelliJ IDEA or Android Studio.
 3. Make sure Kotlin is set up in the IDE.
